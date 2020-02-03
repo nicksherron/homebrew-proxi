@@ -1,4 +1,4 @@
-class Proxypool < Formula
+class Proxi < Formula
   desc "Scrapes, checks and stores proxies with a rest api for querying results."
   homepage ""
   version "0.1.0"
